@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bahadirhanfiliz
-- 👀 I’m interested in web development, mobile app development, cloud technologies and big data.
-- 🌱 I’m currently learning ML, cloud technologies.
-- 💞️ I’m looking to collaborate on machine learning related stuff.
+- 👀 I’m interested in web, mobile app development, cloud technologies and big data.
+- 🌱 I’m currently working as a ML Engineer.
+- 💞️ I’m looking to collaborate on ML related stuff.
 - 📫 How to reach me bahadirhanf@gmail.com
 
 <!---
